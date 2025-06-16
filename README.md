@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @HiggsOs
-- 👀 I’m interested in python, Web servers, AWS
-- 🌱 I’m currently learning AWS,linux
-- 💞️ I’m looking to collaborate on universitary projects
-- 📫 How to reach me ospino0210@outlookcom
-- 😄 Pronouns: Higgs
+- 👋 Hi, I’m @HiggsOs.
+- 👀 I’m interested in Python, Web servers, AWS, JavaScript, N8N, and Machine Learning.
+- 🌱 I’m currently learning N8N.
+- 💞️ I’m looking to collaborate on university projects.
+- 📫 How to reach me ospino0210@outlookcom.
+- 😄 Pronouns: Higgs.
 - ⚡ Fun fact: What did one wall say to another wall? See you at the corner
 
 <!---
