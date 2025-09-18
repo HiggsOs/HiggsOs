@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HiggsOs.
-- 👀 I’m interested in Python, Web servers, AWS, JavaScript, N8N, and Machine Learning.
+- 👀 I’m interested in Python, Web servers, AWS, JavaScript, N8N, and AI solutions.
 - 🌱 I’m currently learning N8N.
 - 💞️ I’m looking to collaborate on university projects.
 - 📫 How to reach me ospino0210@outlookcom.
