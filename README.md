@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiggsOs.
 # Hi, I'm Jesus David “Higgs” Ospino 👋
 
-Electronic Engineer (Universidad del Norte, graduating March 2025) focused on **AI solutions** and **process automation**. I build backend services and integrations, automate workflows, and deliver web applications that enhance team efficiency. :contentReference[oaicite:0]{index=0}
+Electronic Engineer (Universidad del Norte, graduating March 2025) focused on **AI solutions** and **process automation**. I build backend services and integrations, automate workflows, and deliver web applications that enhance team efficiency.
 
 ## 👀 Interests
 - Python, Web servers, AWS, JavaScript/TypeScript
@@ -16,7 +16,7 @@ Electronic Engineer (Universidad del Norte, graduating March 2025) focused on **
 - **Frontend:** React, Next.js  
 - **Automation:** n8n  
 - **DevOps:** Docker, Linux (Ubuntu)  
-- **Other:** JavaScript, TypeScript, C++, PHP (Laravel)
+- **Other:** JavaScript, TypeScript, C++, PHP (Laravel), C, kotlin
 
 ## 💼 Experience / Projects
 - **Software Developer — Dávila Advertising Company (Jul–Dec 2025)**  
