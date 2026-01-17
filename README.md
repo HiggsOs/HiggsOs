@@ -41,7 +41,7 @@ Electronic Engineer (Universidad del Norte, graduating March 2025) focused on **
 - Introduction to IoT — Cisco Networking Academy (Nov 2024)
 
 ## 💞️ Collaboration
-I’m looking to collaborate on **university projects** (backend, automation, and AI integrations).
+I’m looking to collaborate on **projects** (backend, automation, and AI integrations).
 
 ## 📫 Contact
 - Email: dhigginsj@uninorte.edu.co  
